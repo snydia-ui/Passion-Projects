@@ -1,5 +1,5 @@
 import random
-input("all possible combinations of 6 rolled dice(will not show dupes uwu):")
+input("all possible combinations of 6 rolled dice(will not show dupes kpksege:")
 for i in range(1,7):
     for j in range(1,7):
         for k in range(1,7):
